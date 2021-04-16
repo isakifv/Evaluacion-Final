@@ -1,0 +1,4 @@
+¿Qué retorna la función EOF en pascal?
+
+---> Un valor booleano. Verdadero si el pointer se encuentra en la ultima línea del archivo
+que se utilizo como argumento para la función, de lo contrario, retorna falso. 
